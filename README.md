@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WizardsCastle89
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... python, ML
+- 👀 I’m interested in ... rediscovering coding
+- 🌱 I’m currently learning ... python, ML, Data Science
 - 💞️ I’m looking to collaborate on ... billion dollar ideas
 - 📫 How to reach me ... i'll find you
 - ⚡ Fun fact: ... skeet skeet
